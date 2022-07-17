@@ -10,6 +10,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 - [x] [Colab 1](./CS224W_Colab_1.ipynb)
 - [x] [Colab 2](./CS224W_Colab_2.ipynb)
 - [x] [Colab 3](./CS224W_Colab_3.ipynb)
+- [x] [Colab 4](./CS224W_Colab_4.ipynb)
 
 ## Looking for answers for other cs-courses ?
 

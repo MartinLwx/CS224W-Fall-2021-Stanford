@@ -1,13 +1,14 @@
 ## Hi 👋
 
-This is my learning record for the Machine Learning with Graphs in Standford.
+This is my learning record for the Machine Learning with Graphs in Stanford.
 
 The official site: <https://web.stanford.edu/class/cs224w/>
 
 ## Resources
 
 🎥: https://youtu.be/JAB_plj2rbA
-🏷 &&⌨️: https://web.stanford.edu/class/cs224w/
+
+🏷 && ⌨️: https://web.stanford.edu/class/cs224w/
 
 ## Colabs
 
@@ -23,7 +24,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 - Message passing in GraphML. *I think it is the most important conception in GNN. The ppts are very intuitive and concise which are quite worth reading*
 - PyG. *In the Colabs, we will use this package quite often, not only at high-level but also at low-level. To finish the Colabs, you usually need to check the docs, which make you familiar with PyG*
 - GCN/GAT/GraphSAGE *We will implement these models in the Colabs*
-- PageRank, Knowledge graph, etc. *This course covers many topics in GNN.
+- PageRank, Knowledge graph, etc. *This course covers many topics in GNN.*
 
 
 

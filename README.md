@@ -11,6 +11,7 @@ The official site: <https://web.stanford.edu/class/cs224w/>
 - [x] [Colab 2](./CS224W_Colab_2.ipynb)
 - [x] [Colab 3](./CS224W_Colab_3.ipynb)
 - [x] [Colab 4](./CS224W_Colab_4.ipynb)
+- [x] [Colab 5](./CS224W_Colab_5.ipynb)
 
 ## Looking for answers for other cs-courses ?
 
